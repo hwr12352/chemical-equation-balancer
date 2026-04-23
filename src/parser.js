@@ -1,3 +1,4 @@
+//By广东肇庆中学 261015 黄炜睿
 function parseMolecule(formula) {
     const stack = [{}];
     let i = 0;

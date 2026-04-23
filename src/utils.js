@@ -1,3 +1,4 @@
+//By广东肇庆中学 261015 黄炜睿
 function gcd(a, b) {
     return b === 0 ? a : gcd(b, a % b);
 }
