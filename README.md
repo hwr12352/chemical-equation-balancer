@@ -35,6 +35,6 @@ ChemEquilibrium 是一个基于**线性代数（高斯消元法）** 的化学�
 
 ### 克隆仓库
 ```bash
-git clone https://github.com/[your-username]/chem-balancer.git
-cd chem-balancer
+git clone https://github.com/hwr12352/chemical-equation-balancer.git
+cd chem-balancergit init
 npm install
