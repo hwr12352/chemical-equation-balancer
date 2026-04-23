@@ -1,0 +1,22 @@
+{
+  "name": "chem-balancer",
+  "version": "1.0.0",
+  "description": "A chemical equation balancer using Gaussian elimination and robust formula parsing",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "jest"
+  },
+  "keywords": [
+    "chemistry",
+    "equation-balancer",
+    "linear-algebra",
+    "gaussian-elimination",
+    "parser"
+  ],
+  "author": "HuangWeiRui <2388176415@qq.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
